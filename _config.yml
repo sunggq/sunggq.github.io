@@ -18,7 +18,7 @@ sidebar-avatar: /img/avatar-g.jpg      # use absolute URL, seeing it's used in b
 
 # SNS settings
 RSS: false
-# weibo_username:    Sungqqqq
+ weibo_username:    Sungqqqq
 zhihu_username:     sun-guan-qi-5
 github_username:    sumsunsuns
 facebook_username:  
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  repo: sumsunsuns.github.io    #仓库名称
+  owner: sumsunsuns   #github用户名
+  admin: sumsunsuns
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -102,9 +102,9 @@ friends: [
         title: "WY",
         href: "http://zhengwuyang.com"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
+       # title: "简书·BY",
+       # href: "http://www.jianshu.com/u/e71990ada2fd"
+    #},{
         title: "Apple",
         href: "https://apple.com"
     },{
